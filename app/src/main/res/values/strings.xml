@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Android定位与追踪</string>
+
+    <string name="title_activity_main">Andorid定位与追踪</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="fenceRadius">围栏半径</string>
+    <string name="meter">米</string>
+    <string name="activatesAction">触发条件</string>
+    <string name="alertIn">进入</string>
+    <string name="alertOut">离开</string>
+    <string name="alertStated">停留</string>
+    <string name="addFence">添加围栏</string>
+    <string name="removeFence">移除围栏</string>
+
+    <string name="hideOption">隐藏设置</string>
+    <string name="showOption">显示设置</string>
+
+    <string name="fence_round">圆形围栏</string>
+    <string name="fence_polygon">多边形</string>
+    <string name="fence_keyword">关键字围栏</string>
+    <string name="fence_nearby">周边围栏</string>
+    <string name="fence_district">行政区划围栏</string>
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用必须手动打开发送短信的权限，否则无法正常发送短信。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+
+</resources>

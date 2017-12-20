@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<litepal>
+    <dbname value="LocationAndTrancedb"></dbname>
+
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.zzuli.hwl.locationandtrance.bean.User"></mapping>
+    </list>
+
+</litepal>
