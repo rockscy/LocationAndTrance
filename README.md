@@ -1,4 +1,4 @@
-###功能点：
+###功能点：###
 
  - 使用高德地图实现地理围栏功能
  - 可设置手机号和短信间隔，设置后间隔发送当前位置
@@ -11,7 +11,7 @@
 [![zbbdE.md.png](https://s1.ax2x.com/2017/12/20/zbbdE.md.png)](https://simimg.com/i/zbbdE)
 [![zbG1G.md.png](https://s1.ax2x.com/2017/12/20/zbG1G.md.png)](https://simimg.com/i/zbG1G)
 
-####注意
+####注意###
 如果下载代码后运行地图没有显示，请在[高德开放平台](http://lbs.amap.com/)注册帐号并申请应用后替换项目中清单文件**AndroidManifest.xml**高德地图的key重新打包运行即可；
 
 ```
